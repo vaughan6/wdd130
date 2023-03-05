@@ -254,7 +254,7 @@ footer .social img:hover{
 }
 .river-info {
     grid-area: 2/4/6/5;
-    size: 100%;
+    width: 100%;
     background-color:#0068b8e5;
     line-height: 1.5em;
     box-shadow: 5px 5px 10px #2c2e28;
